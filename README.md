@@ -1,4 +1,7 @@
 # vbaEmbCitacoes
+
+_PS: Structural review and integration to online backend pending_
+
 VBA application directed to specific situation/client, not useful for general public - data scrapping and preparation for new lawsuits
 
 The whole application is divided into 4 main responsibilities, with the modules identified as follows:
